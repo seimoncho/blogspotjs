@@ -1,0 +1,2 @@
+# blogspotjs
+Private blogspot files
